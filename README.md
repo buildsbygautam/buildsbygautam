@@ -12,7 +12,7 @@
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=buildsbygautam&theme=radical">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=buildsbygautam&theme=radical">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=buildsbygautam&theme=radical&utcOffset=8">
-<img height="169em" src="https://github-readme-stats.vercel.app/api?username=buildsbygautam&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
+<!-- <img height="169em" src="https://github-readme-stats.vercel.app/api?username=buildsbygautam&theme=radical&hide_border=false&include_all_commits=false&count_private=false"> -->
 <img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=buildsbygautam&theme=radical">
 
 </div>
